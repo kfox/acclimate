@@ -1,0 +1,8 @@
+.DS_Store
+.nyc_output
+coverage
+dist
+node_modules
+tags
+tags.lock
+tags.temp
