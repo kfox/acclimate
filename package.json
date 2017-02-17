@@ -73,7 +73,7 @@
     "all": true,
     "branches": 99,
     "cache": true,
-    "check-coverage": true,
+    "check-coverage": false,
     "exclude": [
       "coverage",
       "node_modules",
