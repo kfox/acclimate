@@ -5,3 +5,7 @@ node_js:
   - node
 
 cache: yarn
+
+os:
+  - linux
+  - osx
