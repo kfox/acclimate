@@ -4,6 +4,7 @@
   "description": "API-Curious Command-Line Interface Making API Traversal Easy",
   "main": "./lib/acclimate.js",
   "scripts": {
+    "check": "ncu",
     "coverage": "nyc report -r=html && open coverage/index.html",
     "debug": "node --inspect bin/acclimate.js",
     "lint": "standard -v | snazzy",
@@ -83,5 +84,8 @@
     "functions": 99,
     "lines": 99,
     "statements": 99
+  },
+  "optionalDependencies": {
+    "npm-check-updates": "^2.10.2"
   }
 }
