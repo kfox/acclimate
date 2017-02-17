@@ -55,6 +55,7 @@
   },
   "devDependencies": {
     "ava": "^0.18.1",
+    "coveralls": "^2.11.16",
     "eslint": "^3.15.0",
     "nock": "^9.0.6",
     "nyc": "^10.1.2",
