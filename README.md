@@ -1,3 +1,5 @@
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com)
+
 # acclimate
 
 _API-Curious Command-Line Interface Making API Traversal Easy_
@@ -36,7 +38,7 @@ npm run coverage
 
 ## Versioning
 
-I plan to use [SemVer](http://semver.org/) for versioning.
+This project uses [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
