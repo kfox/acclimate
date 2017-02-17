@@ -1,6 +1,7 @@
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com)
 [![Build Status](https://travis-ci.org/kfox/acclimate.svg?branch=master)](https://travis-ci.org/kfox/acclimate)
 [![Coverage Status](https://coveralls.io/repos/github/kfox/acclimate/badge.svg)](https://coveralls.io/github/kfox/acclimate)
+[![Coverity Scan](https://img.shields.io/coverity/scan/11806.svg)](https://scan.coverity.com/projects/kfox-acclimate)
 
 # acclimate
 
