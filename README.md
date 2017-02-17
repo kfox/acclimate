@@ -6,16 +6,23 @@
 
 _API-Curious Command-Line Interface Making API Traversal Easy_
 
-A tool to interactively investigate and work with RESTful APIs.
-
 ## Getting Started
 
 This project is pre-alpha. Not much to see yet. :)
 
-### Installing
+## Prerequisites
 
-Clone the project and run `npm link` in the project root to add the `acclimate` and `acc`
-executables to your path.
+`acclimate` uses [yarn](https://yarnpkg.com) to manage dependencies, but
+you can use `npm` instead if you don't have yarn (or prefer not to).
+
+## Installing
+
+Clone the project and run:
+
+```
+yarn install
+npm link
+```
 
 ## Running the tests
 
